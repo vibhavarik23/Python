@@ -1,0 +1,11 @@
+2023-09-12 00:00:12,909 - problemsolving2 - my_sum - DEBUG - Sum: 16
+2023-09-12 00:06:13,466 - problemsolving2 - my_sum - INFO - 9
+2023-09-12 00:06:13,467 - problemsolving2 - my_sum - INFO - 7
+2023-09-12 00:06:13,467 - problemsolving2 - my_sum - INFO - 5
+2023-09-12 00:06:13,468 - problemsolving2 - my_sum - INFO - 3
+2023-09-12 00:06:13,468 - problemsolving2 - my_sum - INFO - 1
+2023-09-12 00:06:13,468 - problemsolving2 - my_sum - DEBUG - Sum: 25
+2023-09-12 00:08:05,666 - problemsolving2 - my_sum - INFO - 5
+2023-09-12 00:08:05,668 - problemsolving2 - my_sum - INFO - 7
+2023-09-12 00:08:05,668 - problemsolving2 - my_sum - INFO - 9
+2023-09-12 00:08:05,668 - problemsolving2 - my_sum - DEBUG - Sum: 21

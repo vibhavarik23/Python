@@ -1,0 +1,11 @@
+2023-09-12 11:48:57,690:saveTofile:INFO:End of saveToFile Program
+2023-09-12 11:48:57,690:saveTofile:DEBUG:########################
+2023-09-12 11:48:57,691:saveTofile:DEBUG:checking name "xyz_employee"....
+2023-09-12 11:48:57,691:saveTofile:CRITICAL:name must be an alphabet
+2023-09-12 11:49:43,491:__main__:INFO:End of saveToFile Program
+2023-09-12 11:49:43,491:__main__:DEBUG:########################
+2023-09-12 11:50:00,344:saveTofile:INFO:End of saveToFile Program
+2023-09-12 11:50:00,344:saveTofile:DEBUG:########################
+2023-09-12 11:50:00,350:saveTofile:DEBUG:checking name "xyz_employee"....
+2023-09-12 11:50:00,350:saveTofile:DEBUG:No data found
+2023-09-12 11:50:00,350:saveTofile:DEBUG:Saving details of xyz_employee...
