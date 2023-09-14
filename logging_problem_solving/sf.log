@@ -1,0 +1,6 @@
+2023-09-12 14:33:21,289 - __main__ - savefile - WARNING - please write documentation
+2023-09-12 14:33:21,290 - __main__ - savefile - ERROR - invalid arguments
+2023-09-12 14:33:21,290 - __main__ - savefile - CRITICAL - End of application
+2023-09-12 14:35:14,334 - __main__ - savefile - WARNING - Please write documentation
+2023-09-12 14:35:14,334 - __main__ - savefile - ERROR - Invalid arguments
+2023-09-12 14:35:14,334 - __main__ - savefile - CRITICAL - End of application
